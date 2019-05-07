@@ -8,7 +8,7 @@ import java.net.Socket;
 import java.util.Scanner;
 public class Client {
 
-    private static int LP = 5;
+   // private static int LP = 5;
     private static int InitPort = 6789;
 	private static int IsWin = 0;
     private static int IsLose = 0;
